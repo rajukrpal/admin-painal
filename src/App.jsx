@@ -8,7 +8,6 @@ import Reports from './pages/Reports';
 import Settings from './pages/Settings';
 import ECommerceHomePage from './pages/ECommerceHomePage';
 
-
 const App = () => {
   return (
     <Router>
